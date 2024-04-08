@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TanelTesting
 - 👀 I’m interested in Software Testing
-- 🌱 I’m stoked that I found Selenide. 
+- 🌱 I’m stoked that I found Selenide, but also use Selenium. 
 - 💞️ I’m looking to collaborate on Quality Assurance. 
 - 📫 You can e-mail me tanel.tolsting@gmail.com 
 
